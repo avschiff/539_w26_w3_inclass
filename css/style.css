@@ -1,0 +1,26 @@
+h1{
+    color: yellow;
+    background-color: blue;
+    font-size: 48px;
+    text-align: center;
+}
+h2{
+    color: blue;
+    font-size: 30px;
+    text-align: left;
+}
+body{
+    background-color: lightgrey;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 20px;
+}
+li{
+    margin-left: 40px;
+    font-size: 18px;
+    color: black;
+    line-height: 30px;
+}
+p{
+    font-size: 18px;
+    color: black;
+    line-height: 30px;}
